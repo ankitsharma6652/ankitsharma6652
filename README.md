@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
+<h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharma6652&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharma6652" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- I have technical experience and interest in - **<ul><li> Data Science </li><li> Computer vision </li><li>Natural Language Processing</li><li> Machine Learning</li></ul>**
 
-- 📫 How to reach me **ankitcoolji@gmail.com**
+- Ask me about anything **, I am happy to help**
+
+- Reach me at **ankitcoolji@gmail.com**
+  
+- <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji><a href ="https://drive.google.com/file/d/1qmJrqlQ8QYoBAObu2CXWRr7mwEA4-VW_/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
